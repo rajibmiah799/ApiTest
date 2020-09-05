@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1562" started-at="2020-08-17T18:33:46Z" finished-at="2020-08-17T18:33:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1562" started-at="2020-08-17T18:33:46Z" finished-at="2020-08-17T18:33:48Z">
+      <class name="com.careerhack.write.SimpleAopiWrite">
+        <test-method status="PASS" signature="patchTitle()[pri:0, instance:com.careerhack.write.SimpleAopiWrite@229d10bd]" name="patchTitle" duration-ms="1397" started-at="2020-08-17T14:33:46Z" finished-at="2020-08-17T14:33:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patchTitle -->
+        <test-method status="PASS" signature="putTitle()[pri:0, instance:com.careerhack.write.SimpleAopiWrite@229d10bd]" name="putTitle" duration-ms="40" started-at="2020-08-17T14:33:48Z" finished-at="2020-08-17T14:33:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putTitle -->
+        <test-method status="PASS" signature="simpleWrite()[pri:0, instance:com.careerhack.write.SimpleAopiWrite@229d10bd]" name="simpleWrite" duration-ms="45" started-at="2020-08-17T14:33:48Z" finished-at="2020-08-17T14:33:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleWrite -->
+        <test-method status="PASS" signature="simpleWriteR()[pri:0, instance:com.careerhack.write.SimpleAopiWrite@229d10bd]" name="simpleWriteR" duration-ms="31" started-at="2020-08-17T14:33:48Z" finished-at="2020-08-17T14:33:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleWriteR -->
+      </class> <!-- com.careerhack.write.SimpleAopiWrite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
